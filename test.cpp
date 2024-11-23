@@ -8,6 +8,7 @@ int main(){
         cout<<"Hello World~"<<i<<endl;
     }
 
+    system("pause");
     return 0;
 
 }
